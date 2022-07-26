@@ -4,9 +4,9 @@
 //-----------------Explain_Plane4---------------------------
 const Explain_Plane4 = new Entity()
 Explain_Plane4.addComponent(new Transform({
-    position: new Vector3(5.2, 5.284, 14.14368),
+    position: new Vector3(5.268, 5.284, 14.144),
     rotation: new Quaternion(0.1218693, -5.327076E-09, -0.9925462, 4.338557E-08),
-    scale: new Vector3(1.5, 1.5, 1.5)
+    scale: new Vector3(1.3, 1.3, 1.3)
 }))
 engine.addEntity(Explain_Plane4)
 
@@ -22,9 +22,9 @@ engine.addEntity(Explain_Plane11)
 //-----------------Explain_Plane12---------------------------
 const Explain_Plane12 = new Entity()
 Explain_Plane12.addComponent(new Transform({
-    position: new Vector3(8.2, 16.064, 14.426),
+    position: new Vector3(8.252, 16.274, 14.62),
     rotation: new Quaternion(0.1391731, -6.08345E-09, 0.9902681, -4.328599E-08),
-    scale: new Vector3(1.6, 1.6, 1.6)
+    scale: new Vector3(1.56, 1.56, 1.56)
 }))
 engine.addEntity(Explain_Plane12)
 
@@ -184,7 +184,7 @@ UI_Back1.height = "70%"
 UI_Back1.positionY = 0
 UI_Back1.positionX = 0
 UI_Back1.color = Color4.White()
-UI_Back1.opacity = 0.5
+UI_Back1.opacity = 0.85
 UI_Back1.hAlign = "center"
 UI_Back1.vAlign = "center"
 UI_Back1.stackOrientation = UIStackOrientation.VERTICAL

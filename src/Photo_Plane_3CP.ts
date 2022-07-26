@@ -5,7 +5,7 @@
 const PicFrame1 = new Entity()
 PicFrame1.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame1.addComponent(new Transform({
-    position: new Vector3(14.51, 1.75, 6.18),
+    position: new Vector3(14.317, 1.75, 5.577),
     rotation: new Quaternion(0, 0.7933534, 0, 0.6087615),
     scale: new Vector3(1.8, 1.3, 1)
 }))
@@ -14,43 +14,43 @@ PicFrame1.addComponent(new Transform({
 const PicFrame2 = new Entity()
 PicFrame2.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame2.addComponent(new Transform({
-    position: new Vector3(7.759, 5.27, 14.2),
-    rotation: new Quaternion(0, 0.01745236, 0, -0.9998478),
-    scale:     new Vector3(2.129, 1.538, 1.183)
+    position: new Vector3(1.133, 5.539, 9.558),
+    rotation: new Quaternion(0.005312378, 0.6087383, -0.006923226, -0.7933232),
+    scale: new Vector3(1.471, 1.062, 0.817)
 }))
 
 //-----------------PicFrame3----------------------------------------------------------------------------
 const PicFrame3 = new Entity()
 PicFrame3.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame3.addComponent(new Transform({
-    position: new Vector3(1.420061, 5.539127, 9.480711),
-    rotation: new Quaternion(0.005312378, 0.6087383, -0.006923226, -0.7933232),
-    scale: new Vector3(1.471, 1.062, 0.817)
+    position: new Vector3(2.869, 7.99, 3.065),
+    rotation: new Quaternion(0, 0.9238796, 0, -0.3826834),
+    scale: new Vector3(1.8, 1.3, 1)
 }))
 
 //-----------------PicFrame4----------------------------------------------------------------------------
 const PicFrame4 = new Entity()
 PicFrame4.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame4.addComponent(new Transform({
-    position: new Vector3(2.869, 7.99, 3.065),
-    rotation: new Quaternion(0, 0.9238796, 0, -0.3826834),
-    scale: new Vector3(1.8, 1.3, 1)
+    position: new Vector3(7.761, 5.27, 14.37),
+    rotation: new Quaternion(0, 0.01745236, 0, -0.9998478),
+    scale: new Vector3(2.129, 1.538, 1.183)
 }))
 
 //-----------------PicFrame5----------------------------------------------------------------------------
 const PicFrame5 = new Entity()
 PicFrame5.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame5.addComponent(new Transform({
-    position: new Vector3(9.276226, 9, 1.177354),
+    position: new Vector3(9.288, 9.14, 1.137),
     rotation: new Quaternion(0, 0.9914449, 0, 0.1305263),
-    scale: new Vector3(1.471, 1.062, 0.817)
+    scale: new Vector3(1.679, 1.214, 0.937)
 }))
 
 //-----------------PicFrame6----------------------------------------------------------------------------
 const PicFrame6 = new Entity()
 PicFrame6.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame6.addComponent(new Transform({
-    position: new Vector3(14.24988, 9.200002, 5.938057),
+    position: new Vector3(14.25, 9.2, 5.938),
     rotation: new Quaternion(0, 0.7933533, 0, 0.6087614),
     scale: new Vector3(1.8, 1.3, 1)
 }))
@@ -59,61 +59,55 @@ PicFrame6.addComponent(new Transform({
 const PicFrame7 = new Entity()
 PicFrame7.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame7.addComponent(new Transform({
-    position: new Vector3(5.998111, 12.5, 14.35418),
+    position: new Vector3(5.998, 12.5, 14.354),
     rotation: new Quaternion(0, 0.1305263, 0, -0.9914449),
-    scale: new Vector3(1.471, 1.062, 0.817)
+    scale: new Vector3(1.627, 1.176, 0.907)
 }))
 
 //-----------------PicFrame8----------------------------------------------------------------------------
 const PicFrame8 = new Entity()
 PicFrame8.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame8.addComponent(new Transform({
-    position: new Vector3(1.203942, 12.45, 9.166093),
-    rotation: new Quaternion(0, 0.6087615, 0, -0.7933533),
-    scale: new Vector3(1.062, 1.471, 0.817)
+    position: new Vector3(1.024, 12.45, 8.508),
+    rotation: new Quaternion(0, 0.6494482, 0, -0.760406),
+    scale: new Vector3(1.941999, 1.471, 0.817)
 }))
 
 //-----------------PicFrame9----------------------------------------------------------------------------
 const PicFrame9 = new Entity()
 PicFrame9.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame9.addComponent(new Transform({
-    position: new Vector3(9.328388, 16.21, 1.268883),
+    position: new Vector3(9.102, 16.21, 1.204),
     rotation: new Quaternion(0, 0.9914449, 0, 0.1305263),
-    scale: new Vector3(1.67, 1.205, 0.925)
+    scale: new Vector3(1.93, 1.395, 1.075)
 }))
 
 //-----------------PicFrame10----------------------------------------------------------------------------
 const PicFrame10 = new Entity()
 PicFrame10.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame10.addComponent(new Transform({
-    position: new Vector3(13.899, 16.26, 6.814),
-    rotation: new Quaternion(0, 0.7489557, 0, 0.6626201),
-    scale: new Vector3(2.787, 2.014, 1.549)
+    position: new Vector3(1.3, 16.07, 9.425),
+    rotation: new Quaternion(0, 0.6087615, 0, -0.7933533),
+    scale: new Vector3(2.934, 2.119, 1.627)
 }))
-
-/*
-position: new Vector3(9.328388, 16.21, 1.268883),
-    rotation: new Quaternion(0, 0.9914449, 0, 0.1305263),
-        scale: new Vector3(1.67, 1.205, 0.925)
-*/
 
 
 //-----------------PicFrame11----------------------------------------------------------------------------
 const PicFrame11 = new Entity()
 PicFrame11.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame11.addComponent(new Transform({
-    position: new Vector3(11.50824, 16.5, 12.75937),
-    rotation: new Quaternion(0, 0.3338069, 0, 0.9426415),
-    scale: new Vector3(3.116, 2.252, 1.732)
+    position: new Vector3(13.899, 16.47, 6.814),
+    rotation: new Quaternion(0, 0.7489557, 0, 0.6626201),
+    scale: new Vector3(2.787, 2.014, 1.549)
 }))
 
 //-----------------PicFrame12----------------------------------------------------------------------------
 const PicFrame12 = new Entity()
 PicFrame12.addComponent(new GLTFShape("models/PicFrame_gltf.gltf"))
 PicFrame12.addComponent(new Transform({
-    position: new Vector3(2.054274, 16.6, 9.322294),
-    rotation: new Quaternion(0, 0.6087615, 0, -0.7933533),
-    scale: new Vector3(2.934, 2.119, 1.627)
+    position: new Vector3(11.518, 16.4, 12.764),
+    rotation: new Quaternion(0, 0.3338069, 0, 0.9426415),
+    scale: new Vector3(3.116, 2.252, 1.732)
 }))
 
 
@@ -556,7 +550,7 @@ Plane1.addComponent(new OnPointerDown((e) => {
 const Plane1to4_Mat = new BasicMaterial()
 
 //★★★★説明文ソースの 変更ポイント ★★★★★★★★★★★★★★★★★★★★★★★★★★
-const Plane1to4_Tex = new Texture("images/test1.png")
+const Plane1to4_Tex = new Texture("images/photo1to4_1229px.png")
 Plane1to4_Mat.texture = Plane1to4_Tex
 
 Plane1.addComponent(Plane1to4_Mat)
@@ -568,7 +562,7 @@ Plane4.addComponent(Plane1to4_Mat)
 const Plane5to8_Mat = new BasicMaterial()
 
 //★★★★説明文ソースの 変更ポイント ★★★★★★★★★★★★★★★★★★★★★★★★★★
-const Plane5to8_Tex = new Texture("images/test1.png")
+const Plane5to8_Tex = new Texture("images/photo5to8_1229px.png")
 Plane5to8_Mat.texture = Plane5to8_Tex
 
 Plane5.addComponent(Plane5to8_Mat)
@@ -580,7 +574,7 @@ Plane8.addComponent(Plane5to8_Mat)
 const Plane9to12_Mat = new BasicMaterial()
 
 //★★★★説明文ソースの 変更ポイント ★★★★★★★★★★★★★★★★★★★★★★★★★★
-const Plane9to12_Tex = new Texture("images/test1.png")
+const Plane9to12_Tex = new Texture("images/photo9to12_1229px.png")
 Plane9to12_Mat.texture = Plane9to12_Tex
 
 Plane9.addComponent(Plane9to12_Mat)
